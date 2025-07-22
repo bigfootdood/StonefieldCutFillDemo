@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+model_2B34C7A5_3393_7346_41C1_AB7A5E5CFD2A.label = model1
+model_20CD7639_3364_38DB_41C2_57242CEC0F00.label = model2
+
+## Skin
+
+### Button
+Button_10951B0D_336C_08BB_41B1_2525846848BD.label = MODEL 1
+Button_2EC0E9C4_336C_0BA9_41C4_7F21ED4CFEF5.label = MODEL 2
+
+## Tour
+
+### Description
+
+### Title
+tour.name = StonefieldCutFillModels
